@@ -71,10 +71,6 @@ To get started with this project, follow these steps:
 
 Contributions to this project are welcome! Feel free to submit issues or pull requests with any improvements, bug fixes, or feature enhancements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - [Nginx](https://nginx.org/): For providing a powerful and efficient web server and reverse proxy solution.
